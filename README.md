@@ -3,6 +3,12 @@
 A rough side-by-side comparison of iOS vs stock UIKit network image loading and
 caching.
 
+## Allocation profiles
+
+Archived allocation profiles for download:
+* [Flutter implementation](https://github.com/cbracken/ImageMemory/raw/master/DeviceFlutterAllocations.trace.zip)
+* [Objective-C implementation](https://github.com/cbracken/ImageMemory/raw/master/DeviceObjcAllocations.trace.zip)
+
 ## Repro instructions
 
 The following instructions can be used to reproduce the checked-in allocation
